@@ -18,3 +18,6 @@ The dataset is currently stored in the netflix_data.csv database, and its struct
 | `duration` | Duration of the show in minutes |
 | `description` | Description of the show |
 | `genre` | Show genre |
+
+See the complete project in nbviewer:
+[Netflix Movies Data Analysis](https://nbviewer.org/github/JacoboGL/Netflix-Movies-Data-Analysis/blob/master/Netflix_Movies_Data_Exploration.ipynb)
